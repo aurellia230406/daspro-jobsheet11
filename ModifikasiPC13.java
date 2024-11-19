@@ -1,4 +1,4 @@
-public class Kafe03 {
+public class Kafee03 {
     public static void main(String[] args) {
         String namaPelanggan = "Andi";
         boolean isMember = true;
